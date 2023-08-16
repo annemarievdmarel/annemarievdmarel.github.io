@@ -1,9 +1,9 @@
 +++
-title = "Custom website design"
+title = "Evolution of Sociality"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Species have to navigate both the physical and social environment in order to survive and attain fitness benefits. Yet, in a changing environment, it may be difficult for species to adjust. Disturbances or perturbations may differentially affect a population’s ability to cope with this change, i.e., resilience. Biological systems, such as ecosystems and social systems, are often resilient. Thus, although individual components have disappeared, the system is able to recover. But how species can cope with the change is not clear. I am interested in getting a better understanding of social evolution and in identifying the mechanisms for species to cope with changing social environments.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+

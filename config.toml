@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://annemarievdmarel.github.io"
 languageCode = "en"
 title = "Annemarie van der Marel"
 theme = "hugo-initio"
@@ -27,7 +27,7 @@ theme = "hugo-initio"
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
+    showFooterTextWidget = false
     showFooterFormWidget = false
 
 [[menu.main]]

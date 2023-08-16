@@ -1,9 +1,9 @@
 +++
-title = "Wordpress integration"
+title = "WNon-endemic species biology"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Non-endemic species provide a unique framework to study evolution of sociality and population biology over a relatively short timeframe and these species are one of the threats to biodiversity. An applied side of my research is to mediate the effects of non-endemic species and to study the factors that influence the success of introduced species.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
