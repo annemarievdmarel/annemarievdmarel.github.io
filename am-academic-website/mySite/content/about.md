@@ -7,8 +7,6 @@ weight = 10
 
 I am originally from The Netherlands, traveled to Canada to pursue my PhD, finished a postdoc in the US and I'm currently in Chile for a postdoctoral fellowship. I'm curious where my academic career will take me next!  
 
-In my spare time, I like to climb, hike, canoe, or do any other outdoor adventure with my husband. 
-
 ![about](static/images/P1190868.JPG)
 
 ### About me
