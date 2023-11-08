@@ -1,8 +1,8 @@
-[home_services]
-    other = "Services"
+[home_research]
+    other = "Research"
 
 [home_recentworks]
-    other = "Recent works"
+    other = "Recent publications"
 
 [home_clients]
     other = "Clients"
@@ -17,16 +17,6 @@
 
 [footer_followme_title]
     other = "Follow me"
-
-[footer_text_title]
-    other = "Text widget"
-[footer_text1]
-    other = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!"
-[footer_text2]
-    other = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!"
-
-[footer_form_title]
-    other = "Form widget"
 
 [recent_works_click_text]
     other = "See details"
